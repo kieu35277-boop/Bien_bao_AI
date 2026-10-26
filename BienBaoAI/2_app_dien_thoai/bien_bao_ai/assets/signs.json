@@ -1,0 +1,303 @@
+[
+ {
+  "id": 0,
+  "name": "Tốc độ tối đa 20 km/h",
+  "code": "P.127",
+  "group": "Biển báo cấm",
+  "meaning": "Cấm các loại xe cơ giới chạy với tốc độ vượt quá 20 km/h."
+ },
+ {
+  "id": 1,
+  "name": "Tốc độ tối đa 30 km/h",
+  "code": "P.127",
+  "group": "Biển báo cấm",
+  "meaning": "Cấm các loại xe cơ giới chạy với tốc độ vượt quá 30 km/h."
+ },
+ {
+  "id": 2,
+  "name": "Tốc độ tối đa 50 km/h",
+  "code": "P.127",
+  "group": "Biển báo cấm",
+  "meaning": "Cấm các loại xe cơ giới chạy với tốc độ vượt quá 50 km/h."
+ },
+ {
+  "id": 3,
+  "name": "Tốc độ tối đa 60 km/h",
+  "code": "P.127",
+  "group": "Biển báo cấm",
+  "meaning": "Cấm các loại xe cơ giới chạy với tốc độ vượt quá 60 km/h."
+ },
+ {
+  "id": 4,
+  "name": "Tốc độ tối đa 70 km/h",
+  "code": "P.127",
+  "group": "Biển báo cấm",
+  "meaning": "Cấm các loại xe cơ giới chạy với tốc độ vượt quá 70 km/h."
+ },
+ {
+  "id": 5,
+  "name": "Tốc độ tối đa 80 km/h",
+  "code": "P.127",
+  "group": "Biển báo cấm",
+  "meaning": "Cấm các loại xe cơ giới chạy với tốc độ vượt quá 80 km/h."
+ },
+ {
+  "id": 6,
+  "name": "Hết hạn chế tốc độ tối đa 80 km/h",
+  "code": "DP.134",
+  "group": "Biển hết lệnh cấm",
+  "meaning": "Hết đoạn đường hạn chế tốc độ tối đa 80 km/h."
+ },
+ {
+  "id": 7,
+  "name": "Tốc độ tối đa 100 km/h",
+  "code": "P.127",
+  "group": "Biển báo cấm",
+  "meaning": "Cấm các loại xe cơ giới chạy với tốc độ vượt quá 100 km/h."
+ },
+ {
+  "id": 8,
+  "name": "Tốc độ tối đa 120 km/h",
+  "code": "P.127",
+  "group": "Biển báo cấm",
+  "meaning": "Cấm các loại xe cơ giới chạy với tốc độ vượt quá 120 km/h."
+ },
+ {
+  "id": 9,
+  "name": "Cấm vượt",
+  "code": "P.125",
+  "group": "Biển báo cấm",
+  "meaning": "Cấm các loại xe cơ giới vượt nhau trên đoạn đường đặt biển."
+ },
+ {
+  "id": 10,
+  "name": "Cấm xe ô tô tải vượt",
+  "code": "P.126",
+  "group": "Biển báo cấm",
+  "meaning": "Cấm các loại xe ô tô tải vượt xe cơ giới khác."
+ },
+ {
+  "id": 11,
+  "name": "Giao nhau với đường không ưu tiên",
+  "code": "W.207a",
+  "group": "Biển báo nguy hiểm",
+  "meaning": "Báo trước sắp đến nơi giao nhau với đường không ưu tiên; xe đi trên đường đang đi được quyền ưu tiên."
+ },
+ {
+  "id": 12,
+  "name": "Bắt đầu đường ưu tiên",
+  "code": "I.401",
+  "group": "Biển chỉ dẫn",
+  "meaning": "Báo hiệu bắt đầu đoạn đường ưu tiên; xe đi trên đường này được ưu tiên khi qua nơi giao nhau."
+ },
+ {
+  "id": 13,
+  "name": "Giao nhau với đường ưu tiên (nhường đường)",
+  "code": "W.208",
+  "group": "Biển báo nguy hiểm",
+  "meaning": "Báo trước sắp đến nơi giao nhau với đường ưu tiên; phải nhường đường cho xe đi trên đường ưu tiên."
+ },
+ {
+  "id": 14,
+  "name": "Dừng lại",
+  "code": "R.122",
+  "group": "Biển hiệu lệnh",
+  "meaning": "Các xe phải dừng lại trước vạch dừng hoặc tại vị trí đặt biển; chỉ được đi tiếp khi bảo đảm an toàn."
+ },
+ {
+  "id": 15,
+  "name": "Đường cấm",
+  "code": "P.101",
+  "group": "Biển báo cấm",
+  "meaning": "Cấm mọi loại phương tiện đi lại cả hai hướng, trừ các xe được ưu tiên theo quy định."
+ },
+ {
+  "id": 16,
+  "name": "Cấm xe ô tô tải",
+  "code": "P.106a",
+  "group": "Biển báo cấm",
+  "meaning": "Cấm các loại xe ô tô tải đi vào đoạn đường đặt biển."
+ },
+ {
+  "id": 17,
+  "name": "Cấm đi ngược chiều",
+  "code": "P.102",
+  "group": "Biển báo cấm",
+  "meaning": "Cấm các loại xe đi vào theo chiều đặt biển, trừ các xe được ưu tiên theo quy định."
+ },
+ {
+  "id": 18,
+  "name": "Nguy hiểm khác",
+  "code": "W.233",
+  "group": "Biển báo nguy hiểm",
+  "meaning": "Báo phía trước có nguy hiểm mà không có biển cảnh báo riêng; cần chú ý quan sát, giảm tốc độ."
+ },
+ {
+  "id": 19,
+  "name": "Chỗ ngoặt nguy hiểm vòng bên trái",
+  "code": "W.201a",
+  "group": "Biển báo nguy hiểm",
+  "meaning": "Báo trước sắp đến chỗ ngoặt nguy hiểm vòng sang trái; cần giảm tốc độ."
+ },
+ {
+  "id": 20,
+  "name": "Chỗ ngoặt nguy hiểm vòng bên phải",
+  "code": "W.201b",
+  "group": "Biển báo nguy hiểm",
+  "meaning": "Báo trước sắp đến chỗ ngoặt nguy hiểm vòng sang phải; cần giảm tốc độ."
+ },
+ {
+  "id": 21,
+  "name": "Nhiều chỗ ngoặt nguy hiểm liên tiếp",
+  "code": "W.202a",
+  "group": "Biển báo nguy hiểm",
+  "meaning": "Báo trước sắp đến đoạn đường có nhiều chỗ ngoặt nguy hiểm liên tiếp."
+ },
+ {
+  "id": 22,
+  "name": "Đường có ổ gà, lồi lõm",
+  "code": "W.221a",
+  "group": "Biển báo nguy hiểm",
+  "meaning": "Báo trước đoạn đường mặt đường lồi lõm, ổ gà; cần giảm tốc độ."
+ },
+ {
+  "id": 23,
+  "name": "Đường trơn",
+  "code": "W.222a",
+  "group": "Biển báo nguy hiểm",
+  "meaning": "Báo trước đoạn đường trơn trượt; cần giảm tốc độ, tránh phanh gấp."
+ },
+ {
+  "id": 24,
+  "name": "Đường bị hẹp về phía phải",
+  "code": "W.203c",
+  "group": "Biển báo nguy hiểm",
+  "meaning": "Báo trước sắp đến đoạn đường bị hẹp đột ngột về phía phải."
+ },
+ {
+  "id": 25,
+  "name": "Công trường",
+  "code": "W.227",
+  "group": "Biển báo nguy hiểm",
+  "meaning": "Báo trước sắp đến đoạn đường đang thi công; cần giảm tốc độ, chú ý người và máy làm việc."
+ },
+ {
+  "id": 26,
+  "name": "Giao nhau có tín hiệu đèn",
+  "code": "W.209",
+  "group": "Biển báo nguy hiểm",
+  "meaning": "Báo trước sắp đến nơi giao nhau có điều khiển giao thông bằng đèn tín hiệu."
+ },
+ {
+  "id": 27,
+  "name": "Đường người đi bộ cắt ngang",
+  "code": "W.224",
+  "group": "Biển báo nguy hiểm",
+  "meaning": "Báo trước sắp đến phần đường dành cho người đi bộ sang ngang; phải giảm tốc độ, nhường đường."
+ },
+ {
+  "id": 28,
+  "name": "Trẻ em",
+  "code": "W.225",
+  "group": "Biển báo nguy hiểm",
+  "meaning": "Báo trước gần trường học, nơi trẻ em thường qua lại; phải giảm tốc độ, đặc biệt chú ý."
+ },
+ {
+  "id": 29,
+  "name": "Đường người đi xe đạp cắt ngang",
+  "code": "W.226",
+  "group": "Biển báo nguy hiểm",
+  "meaning": "Báo trước nơi có người đi xe đạp cắt ngang đường; cần giảm tốc độ, chú ý."
+ },
+ {
+  "id": 30,
+  "name": "Đường có băng tuyết",
+  "code": "—",
+  "group": "Không có trong QCVN",
+  "meaning": "Biển của bộ dữ liệu GTSRB (Đức); hệ thống biển báo Việt Nam không có biển tương ứng."
+ },
+ {
+  "id": 31,
+  "name": "Thú rừng vượt qua đường",
+  "code": "W.231",
+  "group": "Biển báo nguy hiểm",
+  "meaning": "Báo trước nơi thường có thú rừng đi qua đường; cần giảm tốc độ, chú ý."
+ },
+ {
+  "id": 32,
+  "name": "Hết tất cả các lệnh cấm",
+  "code": "DP.135",
+  "group": "Biển hết lệnh cấm",
+  "meaning": "Hết hiệu lực của tất cả các biển báo cấm đặt trước đó."
+ },
+ {
+  "id": 33,
+  "name": "Rẽ phải phía trước",
+  "code": "R.301*",
+  "group": "Biển hiệu lệnh",
+  "meaning": "Các xe chỉ được rẽ phải ở phía trước."
+ },
+ {
+  "id": 34,
+  "name": "Rẽ trái phía trước",
+  "code": "R.301*",
+  "group": "Biển hiệu lệnh",
+  "meaning": "Các xe chỉ được rẽ trái ở phía trước."
+ },
+ {
+  "id": 35,
+  "name": "Đi thẳng",
+  "code": "R.301a",
+  "group": "Biển hiệu lệnh",
+  "meaning": "Các xe chỉ được đi thẳng."
+ },
+ {
+  "id": 36,
+  "name": "Đi thẳng hoặc rẽ phải",
+  "code": "R.301*",
+  "group": "Biển hiệu lệnh",
+  "meaning": "Các xe chỉ được đi thẳng hoặc rẽ phải."
+ },
+ {
+  "id": 37,
+  "name": "Đi thẳng hoặc rẽ trái",
+  "code": "R.301*",
+  "group": "Biển hiệu lệnh",
+  "meaning": "Các xe chỉ được đi thẳng hoặc rẽ trái."
+ },
+ {
+  "id": 38,
+  "name": "Hướng phải đi vòng chướng ngại vật sang phải",
+  "code": "R.302a",
+  "group": "Biển hiệu lệnh",
+  "meaning": "Các xe phải đi vòng sang phía phải chướng ngại vật."
+ },
+ {
+  "id": 39,
+  "name": "Hướng phải đi vòng chướng ngại vật sang trái",
+  "code": "R.302b",
+  "group": "Biển hiệu lệnh",
+  "meaning": "Các xe phải đi vòng sang phía trái chướng ngại vật."
+ },
+ {
+  "id": 40,
+  "name": "Nơi giao nhau chạy theo vòng xuyến",
+  "code": "R.303",
+  "group": "Biển hiệu lệnh",
+  "meaning": "Các xe phải chạy vòng theo đảo an toàn ở nơi giao nhau, theo chiều mũi tên."
+ },
+ {
+  "id": 41,
+  "name": "Hết cấm vượt",
+  "code": "DP.133",
+  "group": "Biển hết lệnh cấm",
+  "meaning": "Hết đoạn đường cấm vượt."
+ },
+ {
+  "id": 42,
+  "name": "Hết cấm xe ô tô tải vượt",
+  "code": "DP.133*",
+  "group": "Biển hết lệnh cấm",
+  "meaning": "Hết đoạn đường cấm xe ô tô tải vượt."
+ }
+]

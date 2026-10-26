@@ -1,0 +1,26 @@
+name: bien_bao_ai
+description: Nhận diện biển báo giao thông bằng mạng CNN (TensorFlow Lite), chạy ngoại tuyến trên điện thoại.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  tflite_flutter: 0.11.0
+  image_picker: 1.1.2
+  image: 4.2.0
+  shared_preferences: 2.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/model.tflite
+    - assets/signs.json
+    - assets/signs/
